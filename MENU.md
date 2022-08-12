@@ -1,0 +1,6 @@
+- Callback review(As well as objects, keys and values)
+- Error handling
+- Chaining callbacks
+- Promises
+- Promise chaining
+- Promise.all
